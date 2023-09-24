@@ -1,1 +1,3 @@
-https://www.kaggle.com/datasets/naurosromim/bdshs
+main : https://www.kaggle.com/datasets/naurosromim/bdshs
+
+backup : https://www.kaggle.com/datasets/kaggleprollc/bengali-hate-speech-detection-dataset
